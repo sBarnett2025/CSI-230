@@ -1,0 +1,37 @@
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"
+"4797","DESKTOP-KLEVHOK","System.Byte[]","9811","(13824)","13824","SuccessAudit","An attempt was made to query the existence of a blank password for an account.
+
+Subject:
+	Security ID:		S-1-5-21-723997226-3945841754-350539696-1002
+	Account Name:		champuser
+	Account Domain:		DESKTOP-KLEVHOK
+	Logon ID:		0x77fe8
+
+Additional Information:
+	Caller Workstation:	DESKTOP-KLEVHOK
+	Target Account Name:	WDAGUtilityAccount
+	Target Account Domain:	DESKTOP-KLEVHOK","Microsoft-Windows-Security-Auditing","System.String[]","4797","10/18/2023 1:11:20 PM","10/18/2023 1:11:20 PM",,,
+"4797","DESKTOP-KLEVHOK","System.Byte[]","9810","(13824)","13824","SuccessAudit","An attempt was made to query the existence of a blank password for an account.
+
+Subject:
+	Security ID:		S-1-5-21-723997226-3945841754-350539696-1002
+	Account Name:		champuser
+	Account Domain:		DESKTOP-KLEVHOK
+	Logon ID:		0x77fe8
+
+Additional Information:
+	Caller Workstation:	DESKTOP-KLEVHOK
+	Target Account Name:	Guest
+	Target Account Domain:	DESKTOP-KLEVHOK","Microsoft-Windows-Security-Auditing","System.String[]","4797","10/18/2023 1:11:20 PM","10/18/2023 1:11:20 PM",,,
+"4797","DESKTOP-KLEVHOK","System.Byte[]","9809","(13824)","13824","SuccessAudit","An attempt was made to query the existence of a blank password for an account.
+
+Subject:
+	Security ID:		S-1-5-21-723997226-3945841754-350539696-1002
+	Account Name:		champuser
+	Account Domain:		DESKTOP-KLEVHOK
+	Logon ID:		0x77fe8
+
+Additional Information:
+	Caller Workstation:	DESKTOP-KLEVHOK
+	Target Account Name:	DefaultAccount
+	Target Account Domain:	DESKTOP-KLEVHOK","Microsoft-Windows-Security-Auditing","System.String[]","4797","10/18/2023 1:11:20 PM","10/18/2023 1:11:20 PM",,,
