@@ -1,0 +1,44 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\DummyFileOne.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230\week9\PowerShellBasicLab","DummyFileOne.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\DummyFileOne.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DummyFileOne","System.Collections.Generic.List`1[System.String]",,"DummyFileOne.ps1","22","C:\Users\champuser\CSI-230\week9\PowerShellBasicLab","C:\Users\champuser\CSI-230\week9\PowerShellBasicLab","False","True","C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\DummyFileOne.ps1",".ps1","10/25/2023 1:32:42 PM","10/25/2023 5:32:42 PM","10/25/2023 1:32:42 PM","10/25/2023 5:32:42 PM","10/25/2023 1:32:42 PM","10/25/2023 5:32:42 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\DummyFileTwo.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230\week9\PowerShellBasicLab","DummyFileTwo.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\DummyFileTwo.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DummyFileTwo","System.Collections.Generic.List`1[System.String]",,"DummyFileTwo.ps1","25","C:\Users\champuser\CSI-230\week9\PowerShellBasicLab","C:\Users\champuser\CSI-230\week9\PowerShellBasicLab","False","True","C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\DummyFileTwo.ps1",".ps1","10/25/2023 1:33:26 PM","10/25/2023 5:33:26 PM","10/25/2023 1:33:26 PM","10/25/2023 5:33:26 PM","10/25/2023 1:33:26 PM","10/25/2023 5:33:26 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\PowerShelBasicLab.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\CSI-230\week9\PowerShellBasicLab","PowerShelBasicLab.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\PowerShelBasicLab.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","PowerShelBasicLab","System.Collections.Generic.List`1[System.String]",,"PowerShelBasicLab.ps1","2146","C:\Users\champuser\CSI-230\week9\PowerShellBasicLab","C:\Users\champuser\CSI-230\week9\PowerShellBasicLab","False","True","C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\PowerShelBasicLab.ps1",".ps1","10/25/2023 1:02:52 PM","10/25/2023 5:02:52 PM","10/25/2023 2:49:38 PM","10/25/2023 6:49:38 PM","10/25/2023 2:49:38 PM","10/25/2023 6:49:38 PM","Archive"
