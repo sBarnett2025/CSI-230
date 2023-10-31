@@ -27,10 +27,10 @@ Get-CimInstance Win32_NetworkAdapterConfiguration -Filter "DHCPEnabled=$true" | 
 # Get dns server ips and display only the first one
 (Get-DnsClientServerAddress -AddressFamily IPv4 | where InterfaceAlias -ilike "Ethernet*" ).ServerAddresses[0]
 
-
+# cd "C:\Users\champuser\CSI-230\week9\PowerShellBasicLab"
 
 # Choose a directory where you have some files
-cd "C:\Users\champuser\CSI-230\week9\PowerShellBasicLab"
+cd "E:\linux class\CSI-230\week9\PowerShellBasicLab"
 
 # List based on the file name
 $files=(Get-ChildItem)
@@ -57,27 +57,26 @@ else
 
 
 
-cd "C:\Users\champuser\CSI-230\week9\PowerShellBasicLab"
+# cd "C:\Users\champuser\CSI-230\week9\PowerShellBasicLab"
+
+cd "E:\linux class\CSI-230\week9\PowerShellBasicLab"
 $files=dir
 
-$folderPath = "C:\Users\champuser\CSI-230\week9\PowerShellBasicLab\outfolder"
+$folderPath = "E:\linux class\CSI-230\week9\PowerShellBasicLab\outfolder"
 $filePath = Join-Path $folderPath "out.csv"
 # List all the files that has the extension ".ps1"
 # and save the results to out.csv file
-$files | where { $_.extension -like ".ps1" } | Export-Csv -Path $filePath
+Get-ChildItem -Path . -Filter *.ps1 | Export-Csv -Path $filePath
+
+#$files | Get-ChildItem { $_.extension -like ".ps1" } | Export-Csv -Path $filePath
 
 
 
 
-
-
-
-
-
-
+# not finished
 # Without changing directory (don't go in outfolder), find
 # every .csv file recursively and change their extensions to
 # .log Recursively display all the files (not directories)
-$files=00000000000000000 -0000000 -00000
-$files | 0000000000 - 0000000 { $_.0000 -00000000 '.csv' , '.log' }
-Get-00000000000 - 000000 -00000
+#$files=Get-ChildItem -Recurse -File
+#$files | select  - 0000000 { $_.0000 -0000000 '.csv' , '.log' }
+#Get-00000000000 - 000000 -00000
